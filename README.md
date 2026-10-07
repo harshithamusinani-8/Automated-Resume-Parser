@@ -1,6 +1,6 @@
-# AI Resume Analyzer 🚀
+# Automated Resume Analyzer 🚀
 
-An AI-powered web application that analyzes resumes and provides meaningful insights beyond simple resume parsing.
+An Automated-powered web application that analyzes resumes and provides meaningful insights beyond simple resume parsing.
 
 Users can upload a PDF resume and get structured information, Resume Score, ATS Score, job-role matching, missing skills, and personalized improvement suggestions.
 
